@@ -2,7 +2,7 @@
     import {base} from '$app/paths'
     export let data
 </script>
-{#each data.summaries as {slug, title, id}}
-<li><a href="{base}/characters/hsr/{id}/{slug}"><img src="{base}/img/{slug}.png" alt=""></a>
+{#each data.characters as {name}}
+<li><a href="{base}/characters/hsr/{name}"><img src="{base}/img/{name}.png" alt=""></a>
 </li>
 {/each}

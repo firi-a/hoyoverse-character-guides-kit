@@ -1,6 +1,6 @@
 const charData = [
-  { id: 1, name: "Arlan", intro: "Welcome to my guide to Arlan." },
-  { id: 2, name: "Asta", intro: "This is the written guide to Asta." },
+  { id: 1, name: "Arlan" },
+  { id: 2, name: "Asta" },
   { id: 3, name: "Bailu" },
   { id: 4, name: "Blade" },
   { id: 5, name: "Bronya" },
