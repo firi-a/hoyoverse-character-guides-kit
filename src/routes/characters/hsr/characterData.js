@@ -11,7 +11,7 @@ const charData = [
   { id: 10, name: "Himeko" },
   { id: 11, name: "Hook" },
   { id: 12, name: "Herta" },
-  { id: 13, name: "Inbibitor Lunae - Dan Heng" },
+  { id: 13, name: "Inbibitor Lunae" },
   { id: 14, name: "Jing Yuan" },
   { id: 15, name: "Kafka" },
   { id: 16, name: "Luka" },

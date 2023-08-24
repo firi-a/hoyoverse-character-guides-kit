@@ -18,3 +18,5 @@
     <p>This is where the review goes</p>
     {/if}
 </div>
+<style>
+</style>
