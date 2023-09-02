@@ -5,6 +5,7 @@
     import InbibitorScript from "../characterScripts/il_dh_script.md"
     import KafkaScript from "../characterScripts/kafka_script.md"
 </script>
+<!-- There has got to be a more elegant way to do this but here we are -->
 <div>
     {#if $page.params.characterName === 'lynx'}
     <LynxScript/>

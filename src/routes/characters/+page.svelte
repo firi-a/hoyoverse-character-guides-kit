@@ -1,1 +1,1 @@
-<h1>This is the generic character page that will have links or something</h1>
+<h1>This is where a bunch of links go for the different games</h1>
