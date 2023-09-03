@@ -1,10 +1,16 @@
 ---
-character: Inbibitor Lunae - Dan Heng
+character: Inbibitor Lunae • Dan Heng
 layout: review
 excerpt: Inbibitor Lunae Dan Heng is the latest Destruction character that has the biggest mouthful of a name I've seen in a character for a long time. IL Dan Heng is an Imaginary damage character that we got a taste of during the last patch's main story.
 ---
 
-# Intro
+<svelte:head>
+    <title>{character}</title>
+</svelte:head>
+
+# {character}
+
+## Intro
 
 Inbibitor Lunae Dan Heng is the latest Destruction character that has the biggest mouthful of a name I've seen in a character for a long time. IL Dan Heng is an Imaginary damage character that we got a taste of during the last patch's main story. I'm going to try and avoid comparing him to Blade too much, but I'm warning you now, there's going to be some of it because they fill very similar rolls and are going to compete with each other for teammates. The biggest difference between them besides their element is where Blade is primarily focused on dealing AoE damage, IL Dan Heng focuses on single target with some extra cleave. Where they're most similar though is that they both are Basic Attack oriented characters with a skill that buffs that basic attack.
 
