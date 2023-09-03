@@ -2,6 +2,9 @@
     import Review from "/src/components/Review.svelte";
     import Stats from "/src/components/Stats.svelte";
 </script>
-<slot></slot>
-<Review/>
-<Stats/>
+<div class="">
+    <Review/>
+    <Stats/>
+</div>
+<style>
+</style>
