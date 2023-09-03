@@ -6,6 +6,7 @@ export function load() {
     characters: charData.map((char) => ({
       name: char.name.toLowerCase(),
       rarity: char.rarity,
+      reviewPath: char.review,
     })),
   };
 }

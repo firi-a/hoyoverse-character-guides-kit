@@ -2,7 +2,7 @@ const charData = [
   { name: "Arlan", rarity: 0 },
   { name: "Asta", rarity: 0 },
   { name: "Bailu", rarity: 1 },
-  { name: "Blade", rarity: 1 },
+  { name: "Blade", rarity: 1, review: '/src/characterScripts/blade.md' },
   { name: "Bronya", rarity: 1 },
   { name: "Clara", rarity: 1 },
   { name: "Dan Heng", rarity: 0 },

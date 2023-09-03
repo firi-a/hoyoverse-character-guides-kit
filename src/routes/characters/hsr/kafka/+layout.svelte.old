@@ -3,6 +3,7 @@
     import Stats from "/src/components/Stats.svelte";
 </script>
 <div class="">
+    <slot/>
     <Review/>
     <Stats/>
 </div>
