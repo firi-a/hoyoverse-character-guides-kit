@@ -1,12 +1,11 @@
-import charData from "./characterData";
-import {base} from "$app/paths"
+import {charData} from "$lib/characterData";
 
 export function load() {
   return {
     characters: charData.map((char) => ({
       name: char.name.toLowerCase(),
       rarity: char.rarity,
-      reviewPath: char.review,
+      id: char.id,
     })),
   };
 }
